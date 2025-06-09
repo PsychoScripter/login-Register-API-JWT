@@ -15,3 +15,4 @@ Install dependencies:
 
 ```bash
 pip install django djangorestframework djangorestframework-simplejwt
+python -m pip install Pillow
